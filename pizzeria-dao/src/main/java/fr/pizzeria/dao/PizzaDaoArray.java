@@ -61,7 +61,6 @@ public class PizzaDaoArray implements PizzaDao {
 			pizzas.remove(p);
 			Pizza.nbPizzas--;
 		});
-
 		
 		return true;
 	}
