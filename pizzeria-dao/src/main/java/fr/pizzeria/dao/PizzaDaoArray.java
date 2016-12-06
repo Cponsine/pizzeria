@@ -26,7 +26,7 @@ public class PizzaDaoArray implements PizzaDao {
 			new Pizza(0, "PEP", "Peperoni", 12.50,CategoriePizza.VIANDE),
 			new Pizza(1, "MAR", "Margherita", 14.00,CategoriePizza.SANS_VIANDE),
 			new Pizza(2, "REI", "Reine", 11.50,CategoriePizza.VIANDE),
-			new Pizza(3, "FRO", 4 fromages", 12.00,CategoriePizza.SANS_VIANDE),
+			new Pizza(3, "FRO", "4 fromages", 12.00,CategoriePizza.SANS_VIANDE),
 			new Pizza(4, "CAN", "Cannibale", 12.50,CategoriePizza.VIANDE),
 			new Pizza(5, "SAV", "Savoyarde", 13.00,CategoriePizza.SANS_VIANDE),
 			new Pizza(6, "ORI", "Orientale", 13.50,CategoriePizza.POISSON),
